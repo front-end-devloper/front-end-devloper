@@ -25,6 +25,7 @@ Career Objective
 I'm looking for opportunities to grow as a Front-End Developer, work on real-world projects, and build high-quality digital experiences.
 
 Connect With Me
+
 LinkedIn: https://www.linkedin.com/in/mostafa-yasser-564764429/
 
 Email: mostafayasser.weschool@gmail.com
