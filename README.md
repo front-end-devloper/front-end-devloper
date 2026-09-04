@@ -1,7 +1,5 @@
 Hi, I'm Mostafa Yasser 👋
 
-Front-End Developer | React.js | JavaScript
-
 I'm a Front-End Developer building modern, responsive, and user-friendly web applications. I focus on creating clean interfaces, responsive experiences, and practical digital solutions.
 
 Tech Stack
